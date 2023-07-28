@@ -1,0 +1,20 @@
+[07/Dec/2022:09:17:13] (I): WordPress Instance Info:
+[07/Dec/2022:09:17:13] (I): Home URL : http://simpl-vintage.local
+[07/Dec/2022:09:17:13] (I): Site URL : http://simpl-vintage.local
+[07/Dec/2022:09:17:13] (I): WordPress Version : 6.1.1
+[07/Dec/2022:09:17:13] (I): Onboarding Version : 1.1.30
+[07/Dec/2022:09:17:13] (I): Multisite : No
+[07/Dec/2022:09:17:13] (I): Server Info : nginx/1.16.0
+[07/Dec/2022:09:17:13] (I): PHP Version : 7.4.30
+[07/Dec/2022:09:17:13] (I): HTTPS : No
+[07/Dec/2022:09:17:13] (I): PHP Max Execution Time : 1200
+[07/Dec/2022:09:17:13] (I): PHP Max Input Vars : 4000
+[07/Dec/2022:09:17:13] (I): Max Upload Size : 314572800
+[07/Dec/2022:09:17:13] (I): Plugins:
+[07/Dec/2022:09:17:13] (I): [PLUGIN] All-in-One WP Migration : v7.68 (ServMask)
+[07/Dec/2022:09:17:13] (I): [PLUGIN] Child Theme Configurator : v2.6.0 (Lilaea Media)
+[07/Dec/2022:09:17:13] (I): [PLUGIN] Elementor : v3.8.1 (Elementor.com)
+[07/Dec/2022:09:17:13] (I): [PLUGIN] Font Awesome : v4.3.1 (Font Awesome)
+[07/Dec/2022:09:17:13] (I): [PLUGIN] Smart Slider 3 : v3.5.1.12 (Nextend)
+[07/Dec/2022:09:17:13] (I): [PLUGIN] Templates Patterns Collection : v1.1.30 (ThemeIsle)
+[07/Dec/2022:09:17:13] (I): [PLUGIN] WPForms Lite : v1.7.8 (WPForms)

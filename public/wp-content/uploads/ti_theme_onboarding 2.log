@@ -1,0 +1,18 @@
+[02/Dec/2022:19:06:08] (I): WordPress Instance Info:
+[02/Dec/2022:19:06:08] (I): Home URL : http://simpl-vintage.local
+[02/Dec/2022:19:06:08] (I): Site URL : http://simpl-vintage.local
+[02/Dec/2022:19:06:08] (I): WordPress Version : 6.1.1
+[02/Dec/2022:19:06:08] (I): Onboarding Version : 1.1.30
+[02/Dec/2022:19:06:08] (I): Multisite : No
+[02/Dec/2022:19:06:08] (I): Server Info : nginx/1.16.0
+[02/Dec/2022:19:06:08] (I): PHP Version : 7.4.30
+[02/Dec/2022:19:06:08] (I): HTTPS : No
+[02/Dec/2022:19:06:08] (I): PHP Max Execution Time : 1200
+[02/Dec/2022:19:06:08] (I): PHP Max Input Vars : 4000
+[02/Dec/2022:19:06:08] (I): Max Upload Size : 314572800
+[02/Dec/2022:19:06:08] (I): Plugins:
+[02/Dec/2022:19:06:08] (I): [PLUGIN] Child Theme Configurator : v2.6.0 (Lilaea Media)
+[02/Dec/2022:19:06:08] (I): [PLUGIN] Contact Form 7 : v5.6.4 (Takayuki Miyoshi)
+[02/Dec/2022:19:06:08] (I): [PLUGIN] Elementor : v3.8.1 (Elementor.com)
+[02/Dec/2022:19:06:08] (I): [PLUGIN] Elementor Header &amp; Footer Builder : v1.6.13 (Brainstorm Force, Nikhil Chavan)
+[02/Dec/2022:19:06:08] (I): [PLUGIN] Templates Patterns Collection : v1.1.30 (ThemeIsle)
